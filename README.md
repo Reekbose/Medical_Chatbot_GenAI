@@ -1,6 +1,5 @@
 # Medical_Chatbot_Gen_AI
 
-
 # How to run?
 ### STEPS:
 
