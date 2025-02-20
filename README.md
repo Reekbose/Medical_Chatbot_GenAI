@@ -32,6 +32,12 @@ PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
+### If we encountered with issues related to the limit/quota of the OPENAI_API_KEY,we can replace it with:
+
+```ini
+HUGGINGFACEHUB_API_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+```
+
 
 ```bash
 # run the following command to store embeddings to pinecone
